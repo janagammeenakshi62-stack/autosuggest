@@ -1,3 +1,16 @@
 h1{
-    color: red
+    color: red;
+}
+#heading-2{
+    color:blue;
+}
+.heading{
+    color:orange;
+}
+.paragraph{
+    border:2px;
+    border-color:black;
+    border-style:solid;
+    padding:20px;
+    text-align:center;
 }
