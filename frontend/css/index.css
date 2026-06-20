@@ -1,16 +1,60 @@
-h1{
+h1 {
     color: red;
 }
-#heading-2{
-    color:blue;
+
+#heading1 {
+    color: orange;
 }
-.heading{
-    color:orange;
+
+.heading2 {
+    color: blue;
 }
-.paragraph{
-    border:2px;
-    border-color:black;
-    border-style:solid;
-    padding:20px;
-    text-align:center;
+
+.paragraph {
+    color: violet;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    padding: 20px;
+    text-align: center;
+}
+
+.navbar {
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    padding: 15px;
+    background-color: purple;
+    text-align: center;
+}
+
+.navbar a {
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+}
+
+.navbar a:hover {
+    background-color: powderblue;
+    color: black;
+}
+
+body {
+    margin: 0;
+}
+
+.card {
+    border: 2px solid black;
+    width: 300px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card button {
+    margin-bottom: 20px;
 }
